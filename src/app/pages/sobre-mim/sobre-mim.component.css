@@ -1,0 +1,24 @@
+.sobre-mim__container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  position: relative;
+  align-items: normal;
+  margin: 0px 80px;
+}
+.sobre-mim__foto > img{
+  border: 3px solid #3e4357;
+  display: flex;
+  justify-content: center;
+  margin-top: 70px;
+  border-radius: 10px;
+}
+
+.sobre-mim__texto > p{
+  margin-top: 70px;
+  color: white;
+  width: 600px;
+  text-align: justify;
+  margin-left: 30px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
